@@ -1,0 +1,7 @@
+{
+    "directory_to_monitor": "/path/to/monitor",
+    "hash_algorithm": "sha256",
+    "notification_email": "user@example.com",
+    "alert_threshold": 10
+  }
+  
